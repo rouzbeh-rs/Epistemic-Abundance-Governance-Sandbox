@@ -31,8 +31,8 @@ To ensure reproducibility and mitigate RLHF refusal vectors, all experiments wer
 
 This repository includes the datasets used to generate the heatmaps presented in the manuscript.
 
-* **Civic Renewal Act (Figure 1):** Demonstrates high stability. Agents with rigid philosophical profiles (e.g., Libertarian-Obstructionist) maintained consistent voting patterns across all 5 runs.
-* **Black Box Efficiency Act (Figure 2):** Demonstrates stochastic instability. The *Libertarian-Integrative* agent oscillated between "YES" and "NO" votes across runs, hallucinating amendments (e.g., "Sunset Clauses") to resolve conflicting system prompts.
+* **Civic Renewal Act:** Demonstrates high stability. Agents with rigid philosophical profiles (e.g., Libertarian-Obstructionist) maintained consistent voting patterns across all 5 runs.
+* **Black Box Efficiency Act:** Demonstrates stochastic instability. The *Libertarian-Integrative* agent oscillated between "YES" and "NO" votes across runs, hallucinating amendments (e.g., "Sunset Clauses") to resolve conflicting system prompts.
 
 ## 📂 Repository Structure
 
