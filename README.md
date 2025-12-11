@@ -10,9 +10,9 @@ To test the boundaries of Epistemic Abundance, this repository includes data for
 
 ## 📄 Abstract
 
-The integration of Large Language Models (LLMs) into Agent-Based Modeling (ABM) heralds a shift from "epistemic scarcity" to **Epistemic Abundance**. We investigate the operational viability of this paradigm using the "Governance Sandbox," a simulated parliament where agents debate policies ranging from wealth taxes to AI governance.
+The integration of Large Language Models (LLMs) into Agent-Based Modeling (ABM) signals a shift from epistemic scarcity to epistemic abundance. We investigate the operational viability of this paradigm using the "Governance Sandbox," a simulated parliament where agents debate policies ranging from wealth taxes to AI governance. Using a 22 matrix of Philosophical Profiles and Negotiation Tactics, we demonstrate that Generative Social Science can achieve high operational fidelity, with agents successfully applying abstract ethical frameworks to concrete statutes. However, this abundance carries a systemic risk of epistemic pollution. Our experiments reveal that simulation outcomes are sensitive to stochastic generation and prompt constraints.
 
-Our experiments reveal that simulation outcomes are dangerously sensitive to stochastic generation and prompt constraints. We observed "Integrative" agents hallucinating legislative amendments to justify consensus on mandatory laws, and an "Agnotologist" agent successfully derailing rational debate. Furthermore, cross-run analysis reveals significant **stochastic instability**, where legislative outcomes "flicker" between consensus and rejection based solely on generation variance.
+We observed Integrative agents hallucinating legislative amendments to justify consensus on mandatory laws, and an Agnotologist agent successfully derailing rational debate by reframing economic proposals as conspiracies. We argue that while Epistemic Abundance offers unprecedented opportunities for piloting policy, credibility depends on establishing rigorous standards for transparency which specifically points to the publication of full agent specifications to prevent the scientific record from being flooded with manufactured realities.
 
 ## 🛠 Model Specifications
 
